@@ -1,0 +1,14 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Class
+1,0,3,"Braund, Mr. Owen Harris",Male,22,1,0,A/5 21171,7.25,,S,Third
+2,1,1,"Cumings, Mrs. John Bradley",Female,38,1,0,PC 17599,71.2833,C85,C,First
+3,1,3,"Heikkinen, Miss. Laina",Female,26,0,0,STON/O2. 3101282,7.925,,S,Third
+4,1,1,"Futrelle, Mrs. Jacques Heath",Female,35,1,0,113803,53.1,C123,S,First
+5,0,3,"Allen, Mr. William Henry",Male,,0,0,373450,8.05,,S,Third
+6,0,3,"Moran, Mr. James",Male,,0,0,330877,8.4583,,Q,Third
+7,0,1,"McCarthy, Mr. Timothy",Male,54,0,0,17463,51.8625,E46,S,First
+8,0,3,"Palsson, Master. Gosta",Male,2,3,1,349909,21.075,,S,Third
+9,1,3,"Johnson, Mrs. Oscar",Female,27,0,2,347742,11.1333,,S,Third
+10,1,2,"Nasser, Mrs. Nicholas",Female,14,1,0,237736,30.0708,,C,Second
+11,0,3,"Test, Mr. Negative Fare",Male,30,0,0,123456,-10,,S,Third
+12,1,2,"Test, Miss. Negative Age",Female,-5,0,0,654321,15.5,,S,Second
+5,0,3,"Allen, Mr. William Henry",Male,,0,0,373450,8.05,,S,Third
